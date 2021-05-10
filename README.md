@@ -1,2 +1,2 @@
 # reservation-app
-A reservation app prefilled by using DOM
+A reservation prefilled list by using DOM
